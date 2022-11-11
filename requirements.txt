@@ -1,2 +1,4 @@
 sseclient
 mmh3
+numpy
+pandas
