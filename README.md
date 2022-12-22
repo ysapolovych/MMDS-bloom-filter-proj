@@ -6,7 +6,7 @@ Ukrainian Catholic University, 2022
 
 - `run_stream_and_train.ipynb` - run stream, train and test bloom filter
 - `classification.ipynb` - classification of stream events (changes made by bots/humans)
-- `changes_distribution.ipynb` - distribution of changes made by bots and humans.
+- `changes_distribution.ipynb` - distribution of changes made by bots and humans. Also available for view in `changes_distribution.html` (open in browser)
 - `bloom_filter.py` - implementation of bloom filter
 
 ## Credits
